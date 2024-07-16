@@ -1,0 +1,20 @@
+body{
+      text-align: center;
+}
+#myButton{
+      border-radius: 5px;
+      font-size: 1.5em;
+      color: black;
+      background-color: rgb(250, 210, 161);
+      transition: background-color .25s;
+}
+.labels{
+      font-size: 1.5em;
+}
+#myButton:hover{
+      background-color: rgb(243, 192, 130);
+}
+#myH4{
+      color: green;
+      font-size: 1.25em;
+}

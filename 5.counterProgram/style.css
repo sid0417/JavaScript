@@ -1,0 +1,22 @@
+#myLabel{
+      display: block;
+      text-align: center;
+      font-family: Helvetica;
+      font-size: 10em;
+}
+#buttonContainer{
+      text-align: center;
+}
+.button{
+      font-family: Helvetica;
+      color:white;
+      background-color: rgb(128, 196, 248);
+      font-size: 1.5em;
+      padding:10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.25s;
+}
+.button:hover{
+      background-color: rgb(17, 64, 231);
+}
